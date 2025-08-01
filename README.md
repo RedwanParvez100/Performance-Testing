@@ -103,3 +103,8 @@ Test executed for the below-mentioned scenario.
  ![3](https://github.com/RedwanParvez100/Performance-Testing/blob/main/Report%20Images/APDEX%2C%20Requests%20Summary%20%26%20Statistics(500samples).png)
 
 
+ ## Conclusion
+
+Performing performance testing on the Booking website helps ensure that it can handle various loads and traffic conditions effectively. By following this guide, you can evaluate the site’s performance and identify areas for improvement.
+
+
