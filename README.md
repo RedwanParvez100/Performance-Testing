@@ -87,7 +87,19 @@ Test executed for the below-mentioned scenario.
 - 300 Concurrent Request with 1 Loop Count; TTPS for Total Samples is ~ 20.0 And Total Concurrent API requested: 2100.
 - 500 Concurrent Request with 1 Loop Count; TTPS for Total Samples is ~ 48 And Total Concurrent API requested: 3500.
 
+ ## HTML Reports         |  Errors
+:-------------------------:|:-------------------------:
 
+ 100 Concurrent Requests with 700 samples (APDEX, Requests Summary & Statistics Result).
+ 
+ ![1](https://github.com/RedwanParvez100/Performance-Testing/blob/main/Report%20Images/APDEX%2C%20Requests%20Summary%20%26%20Statistics(100samples).png)
 
+ 300 Concurrent Requests with 2100 samples (APDEX, Requests Summary & Statistics Result).
+ 
+ ![2](https://github.com/RedwanParvez100/Performance-Testing/blob/main/Report%20Images/APDEX%2C%20Requests%20Summary%20%26%20Statistics(300samples).png)
+
+ 500 Concurrent Requests with 3500 samples (APDEX, Requests Summary & Statistics Result).
+ 
+ ![3](https://github.com/RedwanParvez100/Performance-Testing/blob/main/Report%20Images/APDEX%2C%20Requests%20Summary%20%26%20Statistics(500samples).png)
 
 
