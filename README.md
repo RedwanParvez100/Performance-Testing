@@ -83,9 +83,9 @@ Follow these steps to execute the performance test:
 I’ve completed a performance test on frequently used API for test App. 
 Test executed for the below-mentioned scenario.
 
-- 100 Concurrent Requests with 1 Loop Count; Avg TPS for Total Samples is ~ 11.667 And Total Concurrent API requested: 700.
-- 300 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 20.0 And Total Concurrent API requested: 2100.
-- 500 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 48 And Total Concurrent API requested: 3500.
+- 100 Concurrent Request with 1 Loop Count; TTPS for Total Samples is ~ 11.667 And Total Concurrent API requested: 700.
+- 300 Concurrent Request with 1 Loop Count; TTPS for Total Samples is ~ 20.0 And Total Concurrent API requested: 2100.
+- 500 Concurrent Request with 1 Loop Count; TTPS for Total Samples is ~ 48 And Total Concurrent API requested: 3500.
 
 
 
